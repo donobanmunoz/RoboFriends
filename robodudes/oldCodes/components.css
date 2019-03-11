@@ -1,0 +1,10 @@
+h1{
+  background: red
+
+}
+p{
+  background: blue
+
+}
+for binding to other folder 
+import MyComponent from "./MyComponent.js"
